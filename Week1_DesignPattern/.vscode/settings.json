@@ -1,0 +1,14 @@
+{
+    "java.project.sourcePaths": [
+        "Task9_CommandPattern",
+        "Task8_StrategyPattern",
+        "Task7_ObserverPattern",
+        "Task6_ProxyPattern",
+        "Task5_DecoratarPattern",
+        "Task4_AdapterPattern",
+        "Task3_BuildPattern",
+        "Task1_SingletonPattern",
+        "Task10_MVCPattern",
+        "Task11_DependencyInjection"
+    ]
+}

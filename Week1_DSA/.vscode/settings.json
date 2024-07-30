@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": [
+        "Task6_LibraryManagementSystem",
+        "Task5_TaskManagement",
+        "Task4_EmployeeManagement",
+        "Task3_ECommercePlat",
+        "Task2_ECommercePlat",
+        "Task7_FinancialForecast"
+    ]
+}
